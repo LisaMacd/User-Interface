@@ -63,4 +63,114 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+.container {
+max-width: 876px;
+margin: auto;
+}
+
+header nav {
+	display:inline-block;
+	margin-top: 40px;
+	margin-left: 35px;
+}
+
+header nav a {
+	margin: 0 25px;
+	text-decoration: none;
+	color: lightgray;
+}
+
+.logo {
+	margin-left: 25px;
+	margin-top: 40px;
+}
+
+.cta {
+	margin-bottom: 100px;
+}
+
+.cta-text {
+	display:inline-block;
+	margin-top: 170px;
+}
+
+.cta img {
+	display: inline-block;
+	margin-left: 100px;
+	margin-top: 70px;
+}
+
+.cta .cta-text h1 {
+	font-size: 65px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+button {
+	font-size: 15px;
+	padding: 5px 40px;
+	margin-left: 160px;
+	margin-top: 5px;
+	margin-bottom: 60px;
+}
+
+.main-content .top-content {
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+.text-content1 {
+	width: 42%;
+  display:inline-block;
+  margin-left:40px;
+  text-align:justify;
+ }
+
+.text-content2 {
+	width: 42%;
+  display:inline-block;
+  margin-left:40px;
+  text-align:justify;
+ }
+
+
+.top-content-image {
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.bottom-content {
+	margin-bottom: 40px;
+}
+
+.text-content3 {
+	width: 30%;
+  display:inline-block;
+  margin-left:20px;
+  text-align:justify;
+}
+
+
+.text-content4 {
+	width: 30%;
+  display:inline-block;
+  margin-left:25px;
+  text-align:justify;
+}
+
+.text-content5 {
+	width: 30%;
+  display:inline-block;
+  margin-left:25px;
+  text-align:justify;
+}
+
+
+.contact h4{
+	margin-top: 40px;
+}
+
+footer {
+	margin-top: 30px;
+	text-align: center;
+}
